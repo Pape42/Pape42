@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, moi c’est Pape<br>🎓 Étudiant en 2e année Coding & Digital Innovation à l’IIM Digital School<br>💻 Passionné par le développement web et la sécurité applicative<br>🔍 Intéressé par la création d’expériences fiables, modernes et sécurisées
+👋 Salut, moi c’est Pape<br>🎓 Étudiant en 3e année d'Informatique à l’IIM Digital School<br>💻 Passionné par le développement web et la sécurité applicative<br>🔍 Intéressé par la création d’expériences fiables, modernes et sécurisées
 
 
 ## 🌐 Socials:
