@@ -15,7 +15,7 @@
 ```yaml
 nom:        Pape Bathily
 rôle:       Alternant Analyste SOC
-école:      IIM Digital School — Bachelor Coding & Digital Innovation (3e année)
+école:      IIM Digital School — Bachelor Informatique (3e année)
 focus:      [Cybersécurité, IA, Dev Web, IoT, Automatisation]
 objectif:   Mastère Cybersécurité & IA
 en_cours:   Bloqueur de pub réseau (Pi-hole) sur Raspberry Pi 5
