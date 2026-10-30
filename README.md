@@ -87,7 +87,7 @@ en_cours:   Bloqueur de pub réseau (Pi-hole) sur Raspberry Pi 5
 | 🌀 **Polaris** | IoT | Table à sable cinétique : bille guidée par aimant sur axes X/Y |
 | 🌐 **Portfolio** | Web | Site perso Next.js + Nodemailer |
 
-> 💡 Remplace les noms par des liens vers tes repos : `[**Sentinel**](https://github.com/Pape42/sentinel)`
+
 
 ---
 
