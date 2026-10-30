@@ -80,12 +80,11 @@ en_cours:   Bloqueur de pub réseau (Pi-hole) sur Raspberry Pi 5
 |---|---|---|
 | 🚫 **Pi-hole** *(en cours)* | Cyber · IoT | Bloqueur de pub et de trackers pour tout le réseau, sur Raspberry Pi 5 |
 | 🛡️ **Sentinel** *(à venir)* | Cyber · IA | SOC maison : détection d'intrusion, dashboards Grafana, agent IA |
-| 📡 **RuView ESP32** | IoT · Cyber | Détection de présence par Wi-Fi (CSI) avec des ESP32-S3 |
-| 🎙️ **Edith** | IA | Assistant vocal 100 % local (STT → LLM → TTS), sans cloud |
-| 🚁 **Drone vocal** | IoT · IA | Drone imprimé en 3D, Raspberry Pi embarqué, piloté à la voix |
+| 📡 **RuView ESP32** *(à venir)* | IoT · Cyber | Détection de présence par Wi-Fi (CSI) avec des ESP32-S3 |
+| 🎙️ **Edith** *(à venir)* | IA | Assistant vocal 100 % local (STT → LLM → TTS), sans cloud |
 | ⚙️ **Workflows n8n** | Automatisation | Automatisations sur mesure : alertes, reporting, intégrations API |
-| 🌀 **Polaris** | IoT | Table à sable cinétique : bille guidée par aimant sur axes X/Y |
-| 🌐 **Portfolio** | Web | Site perso Next.js + Nodemailer |
+| ari🌀 **Pols** *(à venir)* | IoT | Table à sable cinétique : bille guidée par aimant sur axes X/Y |
+| 🌐 **Portfolio***(à venir)* | Web | Site perso Next.js + Nodemailer |
 
 
 
